@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Seattle Chinese Garden",
+        "Notes": "An imagined geography of peonies, pools, and pavilions",
+        "link": "www.seattlechinesegarden.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35276222229004,
+          47.55312816069254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Hamilton Viewpoint",
+        "Notes": "A viewpoint park (David Pontecorvo)",
+        "link": "http://www.seattle.gov/parks/park_detail.asp?ID=454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38649368286131,
+          47.593878902222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Ravenna Park",
+        "Notes": "Basketball court, merry-go-round (Bryce Jennings)",
+        "link": "http://www.seattle.gov/parks/park_detail.asp?id=391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30568408966063,
+          47.67084227349092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Seattle Meowtropolitan Cafe",
+        "Notes": "Cafe with cats (Naomi Provost)",
+        "link": "https://seattlemeowtropolitan.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34261274337769,
+          47.66129037481437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Schmitz Preserve Park",
+        "Notes": "Park that is old (KennyNgo)",
+        "link": "http://www.seattle.gov/parks/park_detail.asp?ID=465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40157842636108,
+          47.575671655213476
+        ]
+      }
+    }
+  ]
+}
